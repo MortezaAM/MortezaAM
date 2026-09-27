@@ -2,6 +2,9 @@
 
 - 📫 How to reach me: Telegram
 
+My Primary Language
+<img src="./icons8-javascript-96.png" />
+
 <!--
 **MortezaAM/MortezaAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
